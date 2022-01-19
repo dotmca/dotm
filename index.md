@@ -1,9 +1,45 @@
-# Neuron Template
+---
+tags: [home]
+---
 
-You are viewing a template site, generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
 
-Get started by reading [[README]]#.
+# Dotm
 
-Other pages on this zettelkasten:
+Enjoy my musings
+
+
+## Why?
+
+I tend to have disjointed thoughts spanning many communication platforms. These thoughts are usually spurned by conversation in Discord, Reddit, Slack etc. I have found I enjoy writing and trying to catalog and further conceptualize these ideas.
+
+This will function as some mix of a blog and dumping ground for myself, and maybe others in the future.
+
+## Hobbies
+
+ * Climbing
+ * Horror
+ * Anime
+ * Film
+ * Japanese
+ * American BBQ
+ * Backpacking/dispersed camping
+ * Hip-Hop
+ * Music
+ * High Fashion
+ * SSBM
+ * Firearms
+
+
+## Social media
+
+ * Letterboxd: [dotm](https://letterboxd.com/dotm/)
+ * MAL: [ellykey](https://myanimelist.net/profile/ellykey) 
+ * instagram: [@dotmca](https://www.instagram.com/dotmca/)
+ * Discord: `dotm#8136`
+ * Steam: [xMorgawr](http://steam.personal.moe)
+
+
+## Curated Articles
+
 
 - [[faq]]#
