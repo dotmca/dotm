@@ -15,8 +15,9 @@ I tend to have disjointed thoughts spanning many communication platforms. These 
 This will function as some mix of a blog and dumping ground for myself, and maybe others in the future.
 
 ## Curated Articles
- * [[Resturants]]
+ * [[Horror]]
  * [[Anime]]
+ * [[Resturants]]
 
 ## Hobbies
 
