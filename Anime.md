@@ -7,3 +7,4 @@ tags: [anime]
 
 A list of all my notes and articles around anime.
 
+[[z:zettels?tag=anime/**&anime]]
