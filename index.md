@@ -17,6 +17,7 @@ This will function as some mix of a blog and dumping ground for myself, and mayb
 ## Curated Articles
  * [[Horror]]
  * [[Anime]]
+ * [[Film]]
  * [[Resturants]]
 
 ## Hobbies
