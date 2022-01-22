@@ -14,6 +14,10 @@ I tend to have disjointed thoughts spanning many communication platforms. These 
 
 This will function as some mix of a blog and dumping ground for myself, and maybe others in the future.
 
+## Curated Articles
+ * [[Resturants]]
+ * [[Anime]]
+
 ## Hobbies
 
  * Climbing
@@ -39,6 +43,5 @@ This will function as some mix of a blog and dumping ground for myself, and mayb
  * Steam: [xMorgawr](http://steam.personal.moe)
 
 
-## Curated Articles
- * [[Resturants]]
+
 
