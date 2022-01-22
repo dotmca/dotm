@@ -1,8 +1,11 @@
 ---
 date: 2022-01-22T01:39
+tags:[horror]
 ---
 
 # Horror
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+A list of all my notes and articles around horror, horror adjecent, disturbing content, and the macabre.
+
+
 
