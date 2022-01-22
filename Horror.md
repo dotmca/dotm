@@ -1,6 +1,6 @@
 ---
 date: 2022-01-22T01:39
-tags:[horror]
+tags: [horror]
 ---
 
 # Horror
