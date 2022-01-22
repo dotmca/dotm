@@ -40,7 +40,7 @@ This will function as some mix of a blog and dumping ground for myself, and mayb
  * MAL: [ellykey](https://myanimelist.net/profile/ellykey) 
  * instagram: [@dotmca](https://www.instagram.com/dotmca/)
  * Discord: `dotm#8136`
- * Steam: [xMorgawr](http://steam.personal.moe)
+
 
 
 
