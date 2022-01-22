@@ -1,8 +1,9 @@
 ---
 date: 2022-01-22T01:31
+tags: [food]
 ---
 
 # Resturants
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+This will be a running list of resturants & bars I've enjoyed or have been reccommended to me in the Seattle area
 
