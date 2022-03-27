@@ -20,7 +20,7 @@ But in Japan, its not a terrible thing that they try to instill in people to hav
  
  The scene at 5 minutes into the film is a perfect example of this. It has Oto and Kafuku describing a story that is technically meant for a TV script. I've compiled the script into a paste:[https://pastebin.com/z4x2BH62](https://pastebin.com/z4x2BH62)
  
- While they are describing a made-up story, the story itself is easy to plaster on Kafuku and Oto themselves. It is a vocaliziation, both diegetically and to the viewer, the feelings that stir within Oto. Specifically the fact that she feels like she can't stop, not only does the character within the story feel like she can't stop sneaking into the house, but that Oto herself feels like she can't stop her multiple partners. These type of scenes and this type of storytelling is all over the film.
+ While they are describing a made-up story, the story itself is easy to plaster on Kafuku and Oto themselves. It is a vocaliziation, both diegetically and to the viewer, of the feelings that stir within Oto. Specifically the fact that she feels like she can't stop, not only does the character within the story feel like she can't stop sneaking into the house, but that Oto herself feels like she can't stop her multiple partners. These type of scenes and this type of storytelling is all over the film.
  
  At the end of the day, I think one could hate on this type of dialog as the epitome of boring telling without showing, but I think how the director leverages what is on screen while the story is being told and who is telling the story adds depth to every interaction throughout. Unfortunately because of how obtuse than can be for those unfamiliar, this method of poetic storytelling beguiles the truth for some viewers.
 
