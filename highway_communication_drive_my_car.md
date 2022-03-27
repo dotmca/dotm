@@ -18,7 +18,7 @@ But in Japan, its not a terrible thing that they try to instill in people to hav
  
  My favorite bits of the movie had to be the most dense parts where there was storytelling within storytelling. This sort of poetic storytelling seems to be more common in Japanese media than other media I've consumed. I’ve talked about “showing without telling”, “telling without showing”, the underlying western influence for the former adage and dislike for the latter. Setting all of that aside, what I really enjoy (besides the mental effort) with the type of storytelling within storytelling highlighted in Drive My Car, is it does both in spades. Having a character tell a story that is technically unrelated, but when certain phrases of the stories are told, it is almost like narration as the director chooses what character to show on screen while the story/narration is happening.
  
- The scene at 5 minutes into the film is a perfect example of this. It has Oto and Kafuku describing a story that is technically meant for a TV script. I've compiled the script into a paste:https://pastebin.com/z4x2BH62
+ The scene at 5 minutes into the film is a perfect example of this. It has Oto and Kafuku describing a story that is technically meant for a TV script. I've compiled the script into a paste:[https://pastebin.com/z4x2BH62](https://pastebin.com/z4x2BH62)
  
  While they are describing a made-up story, the story itself is easy to plaster on Kafuku and Oto themselves. It is a vocaliziation, both diegetically and to the viewer, the feelings that stir within Oto. Specifically the fact that she feels like she can't stop, not only does the character within the story feel like she can't stop sneaking into the house, but that Oto herself feels like she can't stop her multiple partners. These type of scenes and this type of storytelling is all over the film.
  
@@ -28,9 +28,9 @@ My favorite overall scene has to be the conversation Takatsuki and Kafuku have i
 
 For your convenience of remembrance, I’ve pasted the conversation so you can give a quick read over to see exactly what is communicated (you’ll have to remember what and who the camera is focused on as the dialog passes)
 
-Storytelling from Takatsuki: https://pastebin.com/nA7ZiYS3
+Storytelling from Takatsuki: [https://pastebin.com/hF0J2seY](https://pastebin.com/hF0J2seY)
 
-Short words between Kafuku and Watari after: https://pastebin.com/G0s6TmS3
+Short words between Kafuku and Watari after: [https://pastebin.com/eCkTnnqH](https://pastebin.com/eCkTnnqH)
 
 The scene then ends with a gunshot sound and a woman screaming as it cuts to the next scene; the theatrical play where Takatsuki finally gets complimented by Kafuku before he gets arrested.
 
@@ -42,7 +42,7 @@ Given the car that Kafuku ascribes so much to, the level of compliment he gives 
 
 Again this type of storytelling and the general culture of communication in Japan lends itself to layers of meaning, but given more time and reading, I found even more to enjoy from the scene. The penultimate shot wherein they show the cigs out of the sunroof contains more information than what is on the surface if the viewer has context and is willing to look.
 
-https://imgur.com/znj2MUX
+[https://imgur.com/znj2MUX](https://imgur.com/znj2MUX)
 
 The shot above evokes imagery of Japanese funeral incense, a visual that would be very familiar to a Japanese audience. With that connection in mind, recall that this entire scene happens before Kafuku and Watari vocally bond over feeling like they killed those close to them (wife and mother respectively). Adding in the context of the story that Takatuski just told, specifically this part:
 
@@ -63,8 +63,7 @@ but the key is no longer there.
 she has elicited in this world.
 
 >She looks into the lens and
-
->repeats her words over and over.
+repeats her words over and over.
 
 >Clearly, so that she's understood,
 
@@ -78,3 +77,7 @@ she has elicited in this world.
 
 >Maybe the tale ends there,
 or maybe it continues.
+
+An attentive viewer can realize not only how Kafuku feels about Otos death before he vocalizes it, but that something similar must be weighing on Watari well before it even comes up in the story narratively. The conversation where they share the intimate details about how they feel and vocalize this happens pretty much at the end of the film. 
+
+Within this scene, both Kafuku and Watari were paying condolences to those they felt they killed within that scene, in addition to everything else mentioned above. The amount of care and layers of context packed into a single 10ish minute scene really really enamored me even at time of viewing when there was still more for me to contemplate after the fact. I have no doubt that I could go through and do this for almost every scene in this movie. The more I digest the more I find myself loving this film.
