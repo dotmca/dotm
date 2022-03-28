@@ -26,7 +26,7 @@ But in Japan, its not a terrible thing that they try to instill in people to hav
 
 My favorite overall scene has to be the conversation Takatsuki and Kafuku have in the car wherein he first communicates very indirectly who he is to Oto, then a little more clearly through the shared lamprey story, and finally fairly direct as far as Japanese communication standards go. He then leaves the car and Kafuku and Watari share a few words, after which he offers her a cig, to which they both light one and smoke in the car while holding them above in silence.
 
-For your convenience of remembrance, I’ve pasted the conversation so you can give a quick read over to see exactly what is communicated (you’ll have to remember what and who the camera is focused on as the dialog passes)
+For your convenience of remembrance, I’ve pasted the conversation so you can give a quick read over to see exactly what is communicated (you’ll have to remember what and who the camera is focused on as the dialog passes). If you want to rewatch, the full scene starts at around 2:01:00, and the speech highlighted below at 2:06:43.
 
 Storytelling from Takatsuki: [https://pastebin.com/hF0J2seY](https://pastebin.com/hF0J2seY)
 
